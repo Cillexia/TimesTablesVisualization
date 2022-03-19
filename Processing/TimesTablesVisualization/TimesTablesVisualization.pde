@@ -15,7 +15,7 @@ float dStep = 0.4;         // step size when adding dots
 float d;                   // current amount of dots
 
 // ========== Factor ==========
-float fStep = 0.0025;     // added each frame to factoe
+float fStep = 0.0025;     // added each frame to f
 float f;                  // factor
 
 // ========== INFO ==========
