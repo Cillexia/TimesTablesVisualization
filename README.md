@@ -7,3 +7,10 @@ This repositories contains java code for a times tables visualisation animation 
 Here you can find the link to the 1 hour video animation on YouTube called:
 #### Times Tables Visualization (1 Hour) - cillexia
 🔗 Link: https://youtu.be/je3Fn_9JlNA
+
+# cillexia
+AnimaStringWaveLoopVINTAGE is a cillexia project created by Christian Bietsch.
+
+🌐 Website: www.cillexia.net
+
+YEAR 2022
