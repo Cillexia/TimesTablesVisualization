@@ -9,7 +9,7 @@ Here you can find the link to the 1 hour video animation on YouTube called:
 🔗 Link: https://youtu.be/je3Fn_9JlNA
 
 # cillexia
-AnimaStringWaveLoopVINTAGE is a cillexia project created by Christian Bietsch.
+TimesTablesVisualization is a cillexia project created by Christian Bietsch.
 
 🌐 Website: www.cillexia.net
 
